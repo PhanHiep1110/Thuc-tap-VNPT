@@ -19,5 +19,5 @@
 * Command: visudo – chỉnh sửa file /etc/sudoers
 * /etc/sudoers.d/: các file cấu hình cho user hoặc group
 * Tránh việc thay đổi nội dung file /etc/sudoers. Việc thay đổi nội dung /etc/sudoers sai cú pháp có thể dẫn đến việc tồi tệ
-● Command: visudo – chỉnh sửa file /etc/sudoers /etc/sudoers.d/: các file cấu hình cho user hoặc group
-● Tránh việc thay đổi nội dung file /etc/sudoers. Việc thay đổi nội dung /etc/sudoers sai cú pháp có thể dẫn đến việc tồi tệ
+* Command: visudo – chỉnh sửa file /etc/sudoers /etc/sudoers.d/: các file cấu hình cho user hoặc group
+* Tránh việc thay đổi nội dung file /etc/sudoers. Việc thay đổi nội dung /etc/sudoers sai cú pháp có thể dẫn đến việc tồi tệ
